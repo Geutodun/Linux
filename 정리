@@ -1,2 +1,4 @@
 ls - 현재 파일 확인 
 cd 파일위치 - 파일로 이동
+brew - linux의 apt-get
+curl - 라이브러리 설치 비슷한 기능
